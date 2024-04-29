@@ -1,6 +1,6 @@
-# Digit Recognition Web Application
+# Digitizer
 
-This Digit Recognition Web Application is a Flask-based web application that utilizes a Convolutional Neural Network (CNN) model, trained on the MNIST dataset, to recognize handwritten digits drawn by the user. It showcases the integration of a PyTorch machine learning model with a web frontend, allowing for real-time digit recognition.
+A Digit Recognition Flask-based Web Application that utilizes a Convolutional Neural Network (CNN) model, trained on the MNIST dataset, to recognize handwritten digits drawn by the user. It showcases the integration of a PyTorch machine learning model with a web frontend, allowing for real-time digit recognition.
 
 ## Features
 
